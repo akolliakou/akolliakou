@@ -12,8 +12,8 @@
 :zap: I love Olympic Weightlifting! :weight_lifting_woman: 
 <br>
 <br>
-:information_source: You can find out more about me at [I'm an inline-style link](https://www.google.com)
+:information_source: Find out more about me at <a href="https://annakolliakou.com">annakolliakou.com</a>
 <br>
 <br>
-📫 I would love to hear from you! You can drop me a line at <a href="mailto:hello@annakolliakou.com">hello@annakolliakou.com</a>
+📫 I would love to hear from you! Drop me a line at <a href="mailto:hello@annakolliakou.com">hello@annakolliakou.com</a>
 </span>
