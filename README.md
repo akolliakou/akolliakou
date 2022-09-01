@@ -9,11 +9,8 @@
 :sunflower: Co-creator of Kuri, a Dead-Letter Queue-as-a-Service for distributed applications 
 <br>
 <br>
-:zap: I love Olympic Weightlifting! :weight_lifting_woman: 
+:zap: I love Olympic Weightlifting :weight_lifting_woman: 
 <br>
 <br>
 :information_source: Find out more about me at <a href="https://annakolliakou.com">annakolliakou.com</a>
-<br>
-<br>
-📫 I would love to hear from you! Drop me a line at <a href="mailto:hello@annakolliakou.com">hello@annakolliakou.com</a>
 </span>
