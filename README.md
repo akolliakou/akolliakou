@@ -15,5 +15,5 @@
 :information_source: You can find out more about me at [I'm an inline-style link](https://www.google.com)
 <br>
 <br>
-📫 I would love to hear from you! You can drop me a line at <mailto:hello@annakolliakou.com>
+📫 I would love to hear from you! You can drop me a line at [hello@annakolliakou.com](mailto:hello@annakolliakou.com)
 </span>
