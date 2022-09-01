@@ -12,7 +12,7 @@
 :zap: I love Olympic Weightlifting! :weight_lifting_woman: 
 <br>
 <br>
-:information_source: You can find out more about me at [annakolliakou.com](https://annakolliakou.com/)
+:information_source: You can find out more about me at [This is an external link to genome.gov](https://www.genome.gov/)
 <br>
 <br>
 📫 I would love to hear from you! You can drop me a line at hello@annakolliakou.com
